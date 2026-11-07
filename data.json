@@ -970,5 +970,13 @@
         "website": "https://handbook.exemplar.dev",
         "llms-full-txt": "https://handbook.exemplar.dev/llms-full.txt",
         "llms-txt": "https://handbook.exemplar.dev/llms.txt"
-    }
+    },
+  {
+    "product": "JOLT",
+    "website": "https://jolt-2fe.pages.dev/",
+    "llms-full-txt": "",
+    "llms-full-txt-tokens": null,
+    "llms-txt": "https://jolt-2fe.pages.dev/llms.txt",
+    "llms-txt-tokens": ""
+  }
 ]
